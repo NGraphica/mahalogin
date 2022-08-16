@@ -1,16 +1,4 @@
 # MAHALogin
 this is for git hooks  of mahalogin
 
-1 st commit
-2 nd commit 
-3 rd commit
-4th commit
-5th commit
-6th commit
-7th commit
-8th commit
-9th commit
-Updating by Omkar to verify the Jenkins Job and github-webhook.
-New Commit 
-New Commit 2
-New Commit 3
+Omkar commit 1
